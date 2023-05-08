@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc158c6c-6118-46b7-9cf2-872e77ba1fc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio2FixacaoPoo/application/Programa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio2FixacaoPoo/entities/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio3FixacaoPoo/application/Programa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio3FixacaoPoo/entities/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExercicioFixacaoEstaticos/application/Programa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExercicioFixacaoEstaticos/util/ConversorMoeda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/poo/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio1FixacaoPoo/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/poo/entities/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio1FixacaoPoo/entities/Rectangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="dc158c6c-6118-46b7-9cf2-872e77ba1fc5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
